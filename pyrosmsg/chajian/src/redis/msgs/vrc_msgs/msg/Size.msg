@@ -1,0 +1,3 @@
+float32 size_length
+float32 size_width
+float32 size_heigth

@@ -1,0 +1,2 @@
+Vector3WithCovariance 	position
+EulerWithCovariance 	rotation

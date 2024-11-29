@@ -1,0 +1,8 @@
+float64[] originx
+float64[] originy
+float64[] originazimuth
+float64[] mode
+float64[] width
+---
+float64[] resultx
+float64[] resulty

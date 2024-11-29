@@ -1,0 +1,3 @@
+float32 polygon_point_x
+float32 polygon_point_y
+float32 polygon_point_z

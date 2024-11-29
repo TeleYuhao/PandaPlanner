@@ -1,0 +1,4 @@
+Header header
+uint64 frame_number
+bool is_valid_frame
+TrajectoryInfo trajectoryinfo

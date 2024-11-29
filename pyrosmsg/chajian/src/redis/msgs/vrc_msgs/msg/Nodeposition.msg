@@ -1,0 +1,2 @@
+float64 node_longitude
+float64 node_latitude

@@ -1,0 +1,3 @@
+common_msgs/Header header
+SingleTrafficLight[] traffic_light
+bool contain_lights
